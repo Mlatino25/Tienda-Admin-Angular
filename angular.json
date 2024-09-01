@@ -26,12 +26,7 @@
             "inlineStyleLanguage": "scss",
             "assets": ["src/favicon.ico", "src/assets"],
             "styles": ["src/styles.scss"],
-            "scripts": [],
-            "resolve": {
-              "fallback": {
-                "crypto": require.resolve("crypto-browserify")
-              }
-            }
+            "scripts": []
           },
           "configurations": {
             "production": {
