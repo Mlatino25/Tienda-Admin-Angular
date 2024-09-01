@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/9ab89e54-d6b5-4465-be80-12d450281a78/resourceGroups/ecommerce/providers/Microsoft.Web/sites/tienda-cliente-angular",
+    "appService.deploySubpath": "dist"
+}
